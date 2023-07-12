@@ -34,7 +34,7 @@ namespace PersonelKayıt
             }
             else
             {
-                MessageBox.Show("Yanlış giriş yaptınız");
+                MessageBox.Show("Yanlış giriş yapthhınız");
             }
             baglanti.Close();
         }
